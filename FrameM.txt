@@ -1,0 +1,29 @@
+<DOCTYPE! html>
+<html>
+
+<head>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" type="text/css" href="CSS!G.css">
+	<title>Mein Projekt</title>
+
+</head>
+
+<body>
+
+	
+	<h1 class="HBB" align="center"> Computerspiele</h1>
+	
+	<div class="Text" align="center">Da ich gerne Computerspiele spiele seit ich klein bin gehört dies auch immernoch zu meiner Freizeit.
+	Momentan spiele ich am meisten Starcraft II, World of Warcraft, Team Fortress 2 und Hearthstone.</div>
+	
+	
+
+
+<div  class="Down"></div>
+</body>
+
+
+
+
+</html>

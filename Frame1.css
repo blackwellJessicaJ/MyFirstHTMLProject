@@ -1,0 +1,29 @@
+<DOCTYPE! html>
+<html>
+
+<head>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" type="text/css" href="CSS!Berufswunsch.css">
+	<title>Mein Projekt</title>
+
+</head>
+
+<body>
+	<div class="Navigator">
+	<ul>
+		<li><a href="MeinProjekt.html">Home</a></li>
+		<li><a href="Lebenslauf.html">Lebenslauf</a></li>
+		<li><a href="Berufswunsch.html">Berufswunsch</a></li>
+		<li><a href="SOME URL">Hobbies</a></li>
+	</ul>
+	</div>
+	
+	<h1 class="BW" align="center">Berufswunsch</h1>
+	
+</body>
+
+
+
+
+</html>

@@ -1,0 +1,89 @@
+body {
+	background-image: url("LL.jpg");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	opacity: 0.9;   
+}
+
+.Navigator {
+	font-family: "Verdana";
+	margin: 0;
+	padding: 0;
+    overflow: hidden;
+    background-color: black;
+	list-style-type: none;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.LLU {	
+	margin: 200px 0px 10px;
+	padding: 5px;
+	font-family: "Agency FB";
+	font-size: 70px;
+	color: orange;
+	background-color: black;	
+}
+
+.FirstBlock {
+	margin: 100px;
+	color: orange;
+	font-family: "Verdana";
+	font-size: 20px;
+	padding: 15px;
+	background-color: black;
+}
+
+.SecondBlock {
+	padding: 15px;
+	margin: 100px;
+	color: orange;
+	font-family: "Verdana";
+	font-size: 20px;
+	background-color: black;
+}
+
+.ThirdBlock {
+	padding: 15px;
+	margin: 100px;
+	color: orange;
+	font-family: "Verdana";
+	font-size: 20px;
+	background-color: black;
+}
+
+.PersoenlicheDaten {
+	color: white;
+	font-size: 30px;
+}
+
+.SchulischeLaufbahn {
+	color: white;
+	font-size: 30px;
+}
+
+.BeruflicheErfahrung {
+	color: white;
+	font-size: 30px;
+}
+
+table th {
+	float: left;
+}
+
